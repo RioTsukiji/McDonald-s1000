@@ -45,6 +45,7 @@ function App() {
     let b = Math.floor( Math.random() * (max_s + 1 - min_s) ) + min_s ;
 
     setS(filtered_side[b])
+
   }
 
   return (
